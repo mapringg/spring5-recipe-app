@@ -6,7 +6,7 @@ import lombok.EqualsAndHashCode;
 import javax.persistence.*;
 
 /**
- * Created by jt on 6/13/17.
+ * Created by mapring
  */
 @Data
 @EqualsAndHashCode(exclude = {"recipe"})

@@ -5,7 +5,7 @@ import guru.springframework.domain.Recipe;
 import java.util.Set;
 
 /**
- * Created by jt on 6/13/17.
+ * Created by mapring
  */
 public interface RecipeService {
 

@@ -7,7 +7,7 @@ import org.springframework.stereotype.Repository;
 import java.util.Optional;
 
 /**
- * Created by jt on 6/13/17.
+ * Created by mapring
  */
 @Repository
 public interface UnitOfMeasureRepository extends CrudRepository<UnitOfMeasure, Long> {
